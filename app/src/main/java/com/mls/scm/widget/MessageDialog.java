@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.TextView;
 
-import com.yundian.yundianchong.R;
+import com.mls.scm.R;
 
 
 /**

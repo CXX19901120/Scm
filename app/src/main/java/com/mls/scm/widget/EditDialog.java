@@ -10,8 +10,8 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.yundian.yundianchong.R;
-import com.yundian.yundianchong.application.AppContext;
+import com.mls.scm.R;
+import com.mls.scm.application.AppContext;
 
 
 /**
